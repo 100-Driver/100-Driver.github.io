@@ -6,6 +6,7 @@
 
 ### :lock: Please DO NOT distribute our data until the paper is accepted. 
 
+## Publicly Avaiable
 ### :handshake: We will publicly release the 100-Driver dataset and source code (including annotations, evaluation protocols, training&testing codes) upon acceptance.
 
 ## Download Dataset
